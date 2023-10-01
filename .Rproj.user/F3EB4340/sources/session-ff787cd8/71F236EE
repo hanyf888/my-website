@@ -1,17 +1,19 @@
 {
-    "id": "FCC82AE8",
-    "path": "~/Documents/GitHub/my website/themes/hugo-theme-mini/exampleSite/.gitignore",
-    "project_path": "themes/hugo-theme-mini/exampleSite/.gitignore",
-    "type": "gitignore",
+    "id": "71F236EE",
+    "path": "~/Documents/GitHub/my website/themes/hugo-theme-mini/README-zh_CN.md",
+    "project_path": "themes/hugo-theme-mini/README-zh_CN.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1696158753863.0,
+    "created": 1696159071154.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "192,0",
+        "scrollLine": "188"
     },
     "folds": "",
     "lastKnownWriteTime": 1689562042,

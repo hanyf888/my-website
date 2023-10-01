@@ -1,14 +1,14 @@
 {
-    "id": "909944C5",
-    "path": "~/Documents/GitHub/my website/themes/hugo-theme-mini/exampleSite/config-example.yaml",
-    "project_path": "themes/hugo-theme-mini/exampleSite/config-example.yaml",
+    "id": "0F8BBB53",
+    "path": "~/Documents/GitHub/my website/themes/hugo-theme-mini/i18n/zh.yaml",
+    "project_path": "themes/hugo-theme-mini/i18n/zh.yaml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1696158743151.0,
+    "created": 1696158877713.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source"

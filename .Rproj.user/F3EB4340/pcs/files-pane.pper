@@ -1,13 +1,13 @@
 {
     "sortOrder": [
         {
-            "columnIndex": 3,
-            "ascending": false
-        },
-        {
             "columnIndex": 2,
             "ascending": true
+        },
+        {
+            "columnIndex": 3,
+            "ascending": false
         }
     ],
-    "path": "~/Documents/GitHub/my website/themes/hugo-theme-mini/exampleSite/content/about"
+    "path": "~/Documents/GitHub/my website/content/about"
 }
