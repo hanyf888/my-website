@@ -1,4 +1,4 @@
 +++
-title = "Tags"
-hidden = true
+title: tags
+hidden: true
 +++
