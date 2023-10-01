@@ -1,0 +1,26 @@
+{
+    "id": "2BA4C495",
+    "path": "~/Documents/GitHub/my website/config-example.yaml",
+    "project_path": "config-example.yaml",
+    "type": "yaml",
+    "hash": "3055411206",
+    "contents": "",
+    "dirty": false,
+    "created": 1696159520397.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,7",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696159933,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696159933660,
+    "read_only": false,
+    "read_only_alternatives": []
+}

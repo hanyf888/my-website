@@ -1,13 +1,17 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 3,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
             "ascending": true
         },
         {
-            "columnIndex": 3,
+            "columnIndex": 4,
             "ascending": false
         }
     ],
-    "path": "~/Documents/GitHub/my website/content/about"
+    "path": "~/Documents/GitHub/my website"
 }
