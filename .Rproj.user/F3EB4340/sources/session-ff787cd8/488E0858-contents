@@ -1,6 +1,6 @@
 baseURL: https://hanyifei.netlify.app/
 languageCode: en-us
-title: Han Yifei
+title: Yifei Han
 theme: "hugo-theme-mini"
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -44,7 +44,7 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Han Yifei
+  author: Yifei Han
   # Author biography
   bio: Ph.D. student
   # Site Description, used in HTML meat
@@ -70,7 +70,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: 'Copyright 2023 ❤️ {params.author}' 
+  copyright: 'Copyright 2023 ❤️ {Han Yifei}' 
 
   # Extra links in navigation
   #links:
