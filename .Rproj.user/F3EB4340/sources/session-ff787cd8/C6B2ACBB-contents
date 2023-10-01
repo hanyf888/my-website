@@ -2,7 +2,7 @@
 aliases:
 - about-myself
 - contact
-author:Yifei Han
+author: Yifei Han
 date: "2023-10-1"
 description: biography
 enableComments: false

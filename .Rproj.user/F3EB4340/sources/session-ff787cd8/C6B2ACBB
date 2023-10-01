@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,0",
+        "cursorPosition": "4,8",
         "scrollLine": "0",
         "ignored_words": "Yifei\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1696161323,
+    "lastKnownWriteTime": 1696161527,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1696161323356,
+    "last_content_update": 1696161527822,
     "read_only": false,
     "read_only_alternatives": []
 }
