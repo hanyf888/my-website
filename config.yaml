@@ -12,7 +12,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 4
 
 #googleAnalytics: your-google-analytics-id
 #disqusShortname: your-disqus-shortname
@@ -74,10 +74,10 @@ params:
   # copyright: 'Copyright 2023 ❤️ {Yifei Han}' 
 
   # Extra links in navigation
-  #links:
-    ## e.g.
-    # - name: Project
-    #   path: /project
+  links:
+    # e.g.
+    name: curriculum vitae
+    path: /content/cv
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   #customCSS:
