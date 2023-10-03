@@ -10,3 +10,4 @@
 index_cache
 public
 /public
+*.DS_Store

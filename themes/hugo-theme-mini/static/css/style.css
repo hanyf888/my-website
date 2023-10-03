@@ -76,6 +76,10 @@ tr:nth-child(odd)>td {
   background: #fcfcfc;
 }
 
+th:empty {
+  visibility: hidden;
+}
+
 h1,
 h2,
 h3 {

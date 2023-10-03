@@ -14,10 +14,26 @@ I'm a Ph.D. student in [Institute of Psychology, Chinese Academy of Sciences](ht
 <br>
 
 ### **Education**
-09.2019 – Present      Ph.D. student, Institute of Psychology, Chinese Academy of Sciences, Beijing, China 
-<br>
-08.2015 – 06.2019      B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China.           
-<br>
+
+<style>
+td, th, tr {
+   border: none!important;
+   background: #ffffff!important;
+    text-align: left;
+    padding: 10px 15px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #444;
+    cursor: default;
+    white-space: nowrap;
+    border: 1px solid #dadadc;
+}
+</style>
+
+| 09.2019 – Present    | Ph.D. student, Institute of Psychology, Chinese Academy of Sciences, Beijing, China  |
+|  ----  | ----  |
+| 08.2015 – 06.2019  | B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China. |
 
 ### **Research Interests**
 - cognitive neural mechanism of visual motion processing
