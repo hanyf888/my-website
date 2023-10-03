@@ -13,8 +13,8 @@ I'm a Ph.D. student in [Institute of Psychology, Chinese Academy of Sciences](ht
 
 
 ## My research interest focuses on the
--cognitive neural mechanism of visual motion processing
--computer vision
+- cognitive neural mechanism of visual motion processing
+- computer vision
 
 ## Contact
 [email](hanyf@psych.ac.cn)|[github](https://github.com/hanyf888)
