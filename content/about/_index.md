@@ -14,8 +14,8 @@ I'm a Ph.D. student in [Institute of Psychology, Chinese Academy of Sciences](ht
 <br>
 
 ### **Education**
-|09.2019 – Present|Ph.D. student, Institute of Psychology, Chinese Academy of Sciences, Beijing, China|
-|08.2015 – 06.2019|B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China.          |
+| 09.2019 – Present | Ph.D. student, Institute of Psychology, Chinese Academy of Sciences, Beijing, China |
+| 08.2015 – 06.2019 | B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China.           |
 <br>
 <br>
 
