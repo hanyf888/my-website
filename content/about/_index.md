@@ -18,7 +18,6 @@ I'm a Ph.D. student in [Institute of Psychology, Chinese Academy of Sciences](ht
 <br>
 08.2015 – 06.2019      B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China.           
 <br>
-<br>
 
 ### **Research Interests**
 - cognitive neural mechanism of visual motion processing
