@@ -35,7 +35,7 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: https://github.com/hanyf888
+  # github: https://github.com/hanyf888
   #twitter: your-github-link
   #stackoverflow: your-github-link
   # facebook: your-facebook-link
