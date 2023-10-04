@@ -22,8 +22,8 @@ td, th, tr {
     text-align: left;
     padding: 10px 15px;
     height: 20px;
-    font-size: 13px;
-    font-weight: bold;
+    font-size: 15px!important;
+    font-weight: normal!important;
     color: #444;
     cursor: default;
     white-space: nowrap;
@@ -42,7 +42,7 @@ td, th, tr {
 <br>
 
 ### **Contact**
-[Email](hanyf@psych.ac.cn)|[Github](https://github.com/hanyf888)
+[Email](hanyf@psych.ac.cn) | [Github](https://github.com/hanyf888)
 
 
 
