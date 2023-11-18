@@ -41,8 +41,8 @@ td:nth-child(2) {
 | 08.2015 – 06.2019| B.S., Department of Psychology, Sun Yat-Sen University, Guangzhou, China. |
 
 ### **Research Interests**
-- cognitive neural mechanism of visual motion processing
-- computer vision
+- Cognitive Neuroscience
+- Computer Vision
 <br>
 <br>
 
